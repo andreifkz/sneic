@@ -1,3 +1,3 @@
-C:/Users/Andrei/CLionProjects/sneic/cmake-build-debug/CMakeFiles/sneic.dir
-C:/Users/Andrei/CLionProjects/sneic/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Andrei/CLionProjects/sneic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Andrei/CLionProjects/sneictest/cmake-build-debug/CMakeFiles/sneic.dir
+C:/Users/Andrei/CLionProjects/sneictest/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Andrei/CLionProjects/sneictest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
